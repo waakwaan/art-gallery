@@ -58,3 +58,4 @@ Follow step in [Paul Irish's blog](https://medium.com/@paul_irish/debugging-node
 Sourcemap is enabled in webpack by `devtool: 'inline-source-map'`.
 <img src="https://raw.githubusercontent.com/mayyan/art-gallery/master/src/images/debugging_client_side.png" width=430>
 
+"# artpoint" 
